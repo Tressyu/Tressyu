@@ -1,14 +1,35 @@
-Hey! I’m Tressyu -
+<h2 align="left">Hi 👋! My name is Tressyu and I'm a hobbies coder/gamer from Europe</h2>
 
+###
 
-a self-driven learner with a passion for technology, creativity, and continuous growth.
-I spend a lot of my time learning to code, whether that’s through building small projects, exploring new languages, or just figuring out how things work behind the scenes.
-When I’m not coding, you’ll probably find me gaming, watching YouTube, or diving into random topics that catch my interest.
-This site is where I share my journey — from coding projects to thoughts, experiments, and things I find cool along the way.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tressyu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Tressyu&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tressyu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Thanks for stopping by!
+###
 
-<!---
-Tressyu/Tressyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Tressyu/count.svg?"  />
+</div>
+
+###
