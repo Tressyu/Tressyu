@@ -28,6 +28,9 @@
 
 ###
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Tressyu/count.svg?"  />
 </div>
