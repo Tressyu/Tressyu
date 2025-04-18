@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Tressyu and I'm a hobbies coder/gamer from Europe</h2>
+<h2 align="left">Hi 👋! My name is Tressyu and I'm a hobbyist coder/gamer from Europe</h2>
 
 ###
 
