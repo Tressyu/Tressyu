@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tressyu" alt="tressyu" /></a> </p>
 
-- 🔭 I’m currently working on [tressyu.github.io](tressyu.github.io)
+- 🔭 I’m currently working on tressyu.github.io
 
 - 🌱 I’m currently learning **jekyll,**
 
-- 📝 I sometimes write articles on [tressyu.github.io](tressyu.github.io)
+- 📝 I sometimes write articles on tressyu.github.io
 
 <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
