@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tressyu&show_icons=true&locale=en" alt="tressyu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tressyu&" alt="tressyu" /></p>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
