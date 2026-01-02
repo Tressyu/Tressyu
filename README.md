@@ -11,7 +11,7 @@ a self-driven learner with a passion for technology, creativity, and continuous 
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on https://tressyu.github.io
+👩‍💻 I'm currently working not working on anything.
 
 🧠 I'm currently learning lua , javascript
 
